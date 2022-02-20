@@ -14,8 +14,6 @@ Hola a todos! 👋🏻
 
 📌Aquí dejo el link de mi primer proyecto (el cual tiene el repo en mi perfil): 👉🏻 https://star-wars-first-app.netlify.app/ 👈🏻
 
-💼Me gustaría ser Desarrolladora Full Stack para poder crear proyectos más completos.
-
 🏠Estoy abierta a ofertas de empleo en remoto o semipresenciales. 
 
 🙏🏻Me gustaría poder empezar a trabajar para afianzar conocimientos, conocer a un equipo y trabajar con él, aprender de las personas que lo formen y empezar
@@ -42,8 +40,6 @@ Hello everyone! 👋🏻
 📝 I am currently studying Full Stack Development at Samsung Developers and I am also studying React in a Udemy course.
 
 📌Here I leave the link of my first project (which has the repo on my profile): 👉🏻 https://star-wars-first-app.netlify.app/ 👈🏻
-
-💼I would like to be a Full Stack Developer to be able to create more complete projects.
 
 🏠 I am open to remote or blended job offers.
 
