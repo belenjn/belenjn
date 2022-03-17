@@ -18,8 +18,7 @@ Hola a todos! 👋🏻
 
 🙏🏻Me gustaría poder empezar a trabajar para afianzar conocimientos, conocer a un equipo y trabajar con él, aprender de las personas que lo formen y empezar
   a ganar experiencia en este sector.
-  
-🙇🏻‍♀️También estoy abierta a propuestas de empleo como freelance.
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -46,4 +45,4 @@ Hello everyone! 👋🏻
 🙏🏻I would like to be able to start working to consolidate knowledge, meet a team and work with it, learn from the people who form it and start
   to gain experience in this sector.
   
-🙇🏻‍♀️I am also open to job offers as a freelancer.
+
