@@ -16,6 +16,7 @@ Hola a todos! 👋🏻
 
 
 
+![Group_1-removebg-preview](https://user-images.githubusercontent.com/75947904/165148296-831ae0e3-3a7a-499e-917d-5ffb7bde38f3.png)
 
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -37,4 +38,6 @@ Hello everyone! 👋🏻
 
 📌Here I leave the link of my first project (which has the repo on my profile): 👉🏻 https://star-wars-first-app.netlify.app/ 👈🏻
 
+
+![Group_1-removebg-preview](https://user-images.githubusercontent.com/75947904/165148343-e50ab85d-94ec-413a-81f8-9e751a6ebf89.png)
 
