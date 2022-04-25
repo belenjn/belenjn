@@ -10,14 +10,11 @@ Hola a todos! 👋🏻
 
 🖌️Empecé a estudiar HTML, CSS y posteriormente Javascript.
 
-📝Actualmente estoy estudiando Desarrollo Full Stack en Desarrolladoras Samsung y a su vez estoy estudiando React en un curso de Udemy.
+📝Actualmente estoy estudiando Desarrollo Full Stack en Oxygen.
 
 📌Aquí dejo el link de mi primer proyecto (el cual tiene el repo en mi perfil): 👉🏻 https://star-wars-first-app.netlify.app/ 👈🏻
 
-🏠Estoy abierta a ofertas de empleo en remoto o semipresenciales. 
 
-🙏🏻Me gustaría poder empezar a trabajar para afianzar conocimientos, conocer a un equipo y trabajar con él, aprender de las personas que lo formen y empezar
-  a ganar experiencia en este sector.
 
 
 
@@ -36,13 +33,8 @@ Hello everyone! 👋🏻
 
 🖌️I started studying HTML, CSS and later Javascript.
 
-📝 I am currently studying Full Stack Development at Samsung Developers and I am also studying React in a Udemy course.
+📝 I am currently studying Full Stack Development at Oxygen.
 
 📌Here I leave the link of my first project (which has the repo on my profile): 👉🏻 https://star-wars-first-app.netlify.app/ 👈🏻
 
-🏠 I am open to remote or blended job offers.
-
-🙏🏻I would like to be able to start working to consolidate knowledge, meet a team and work with it, learn from the people who form it and start
-  to gain experience in this sector.
-  
 
