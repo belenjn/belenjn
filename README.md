@@ -1,5 +1,5 @@
 
-<p align="center"> <img src='https://user-images.githubusercontent.com/75947904/165151558-ad5b2ec5-d372-44f1-b34b-9d56cdcb9dc6.png' /> </p>
+<p align="center"> <img src='https://user-images.githubusercontent.com/75947904/165155705-2bf86710-fc7c-41cd-a81e-f05c56604e1d.png' /> </p>
 
 
  <h1 align="center"><b>Hello everyone! </b>👋🏻</h1>
@@ -19,8 +19,6 @@
 
 
 <p align="center"> <img src='https://user-images.githubusercontent.com/75947904/165148296-831ae0e3-3a7a-499e-917d-5ffb7bde38f3.png' /> </p>
-
-
 
 
 
