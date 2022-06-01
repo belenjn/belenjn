@@ -1,8 +1,12 @@
 
 <p align="center"> <img src='https://user-images.githubusercontent.com/75947904/165155705-2bf86710-fc7c-41cd-a81e-f05c56604e1d.png' /> </p>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/75947904/171345297-3b24e019-ec7a-4655-8f7e-11298dd16e73.gif" width="200"> <img src="https://user-images.githubusercontent.com/75947904/171346860-69ed209f-a07f-4571-8a8c-ab0bfb32e7af.gif" width="200"/> 
+</p>
 
- <h1 align="center"><b>Hello everyone! </b>👋🏻</h1>
+
+
 
 <p align="justify">
 👶🏻 A few months ago after not finding a job, I decided to renew myself and started studying programming.
