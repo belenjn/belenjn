@@ -14,7 +14,7 @@
   
 🎓 I studied Front-end Development in a Samsung course. Dedicated to women only.
 
-📝 I'm currently studying Full Stack Development at Oxygen.
+📝 I'm currently studying Full Stack Development at Oxygen Academy.
 
 📌 Here I leave the link of my first project (which has the repo on my profile): 👉🏻 https://star-wars-first-app.netlify.app/ 👈🏻 </p>
 
