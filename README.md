@@ -5,7 +5,7 @@
 
 
 <p align="justify">
-👶🏻 A few months ago after not finding a job, I decided to renew myself and started studying programming.
+👶🏻 One year ago I decided to renew myself and started studying programming.
 
 🗯️ After some research, I realized that I liked Front-End Dev. 
 
