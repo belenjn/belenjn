@@ -16,7 +16,7 @@
 
 📝 I'm currently studying Full Stack Development at Oxygen Academy.
 
-📌 Here I leave the link of my first project (which has the repo on my profile): 👉🏻 https://star-wars-first-app.netlify.app/ 👈🏻 (the page may be blank, I am reforming the app. 👷🏻‍♀️)
+📌 Here I leave the link of my first project (which has the repo on my profile): 👉🏻 https://belenjn.github.io/star-wars-app/ 👈🏻
   
 🔎 I also have notions of:  
 </p>
