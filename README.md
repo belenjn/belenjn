@@ -18,9 +18,3 @@
 
 📌 Here I leave the link of my first project (which has the repo on my profile): 👉🏻 https://belenjn.github.io/star-wars-app/ 👈🏻
   
-🔎 I also have notions of:  
-</p>
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/75947904/184091214-fc09828f-2d43-4804-902e-68cc68a62cde.png"/></p>
-
-
