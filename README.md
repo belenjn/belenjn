@@ -2,7 +2,6 @@
 
 <p align="justify">
 
-🪞<a href="www.belenjn.com"> Check my website here</a>
 
 👶🏻 Two years ago I decided to renew myself and started studying programming.
 
@@ -15,5 +14,8 @@
 📝 I studied Full Stack Development at Oxygen Academy too.
 
 🙏🏻 I would like to be able to start working to consolidate knowledge, meet a team and work with them and learn from the people who form it.
+
+✅ Check my portfolio here: <b>www.belenjn.com</b>
+
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/75947904/190433612-90d75cfa-954c-472c-9dd1-4894e2430dbb.png"/></div>
