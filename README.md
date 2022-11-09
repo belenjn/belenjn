@@ -3,17 +3,11 @@
 <p align="justify">
 
 
-👶🏻 Two years ago I decided to renew myself and started studying programming.
+👧🏻 I really like programming and also creating designs, taking into account the user experience, so that the whole (design + functionalities) is the best possible. In this way, I can embody my creativity. I like to fight for my goals and achieve them.
 
-🗯️ After some research, I realized that I liked Front-End Dev. 
+📝 I have completed the Full Stack Development training at Oxygen Academy and I continue to train myself in a self-taught way.
 
-🖌️ I started studying HTML, CSS, Javascript and later React.
-  
-🎓 I studied Front-end Development in a Samsung course. Dedicated to women only.
-
-📝 I studied Full Stack Development at Oxygen Academy too.
-
-🙏🏻 I would like to be able to start working to consolidate knowledge, meet a team and work with them and learn from the people who form it.
+🏠 I am open to remote or on-site job offers (Galicia).
 
 👀 Check my portfolio here: <b>www.belenjn.com</b>
 
