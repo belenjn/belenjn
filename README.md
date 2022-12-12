@@ -12,4 +12,4 @@
 👀 Check my portfolio here: <b>www.belenjn.com</b>
 
 
-<div align="center"> <img src="https://user-images.githubusercontent.com/75947904/190433612-90d75cfa-954c-472c-9dd1-4894e2430dbb.png"/></div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/75947904/207024665-415713c9-b270-47af-ab55-1d4eebc7b85b.png"/></div>
