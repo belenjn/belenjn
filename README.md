@@ -7,8 +7,6 @@
 
 📝 I have completed the Full Stack Development training at Oxygen Academy and I continue to train myself in a self-taught way.
 
-🏠 I am open to remote or on-site job offers (Galicia).
-
 👀 Check my portfolio here: <b>www.belenjn.com</b>
 
 
